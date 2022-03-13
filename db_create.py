@@ -1,2 +1,2 @@
-DEFAULT_DATABASE_URI = 'mysql+pymysql://root:r00t@localhost/headfone?charset=utf8mb4'
-
+from app import db
+db.create_all()
