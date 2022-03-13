@@ -25,4 +25,5 @@ Admin can do the following:
  * View the available seats in a coach
  * Book multiple seats
  * A user cannot book a seat or seats if it is not available or booked by anyone.
- * An API to fetch all available seatsAn API to fetch all booked seats
+ * An API to fetch all available seats
+ * An API to fetch all booked seats
